@@ -1,0 +1,31 @@
+/*
+  Localizable.strings
+  DemoApp
+
+  Created by admin_vserv on 09/12/20.
+  
+*/
+"welcome" = "Welcome";
+"message" = "Message";
+"encrypt" = "Encrypt";
+"decrypt" = "Decrypt";
+"encryption" = "Encryption";
+
+"toDo" = "To-Do";
+"stopWatch" = "StopWatch";
+"delete" = "Delete";
+"surewantTodelete" = "Are you sure you want to delete the task";
+
+"secretKey" = "Secret Key";
+"taskName" = "Task Name";
+"dateAndTime" = "Date and Time";
+"save" = "Save";
+"clear" = "Clear";
+"ok" = "OK";
+"cancel" = "Cancel";
+
+
+"changeLanguage" = "Change Language";
+"logout" = "Logout";
+
+"areyousuretologout" = "Are you sure you want to logout";
